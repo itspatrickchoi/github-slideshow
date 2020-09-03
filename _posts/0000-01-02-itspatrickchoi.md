@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Well, how big is the plane?" - "That part is a little dramatic!"
 Use the left arrow to go back!
